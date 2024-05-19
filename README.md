@@ -1,2 +1,2 @@
 ## Web scraping
-This script is used for downloading an tiled image from url. 
+This script is used for downloading a tiled image from url. 
